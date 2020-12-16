@@ -1,0 +1,11 @@
+{
+  "name": "useListScrolling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MR-liu/useListScrolling.git",
+  "author": "刘泽锦 <liuzejin@zhongan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
